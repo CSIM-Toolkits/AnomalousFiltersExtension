@@ -6,7 +6,7 @@ This extension aims to provide several approaches in order to apply the anomalou
 
 ![Example](https://github.com/CSIM-Toolkits/AnomalousFiltersExtension/blob/main/docs/assets/MRI_AAD.png)
 
-More details could be found in the wiki page: https://www.slicer.org/wiki/Documentation/Nightly/Extensions/AnomalousFilters 
+More details could be found in the [documentation page](https://anomalousfiltersextension.readthedocs.io/en/latest/)
 
 If this tool was useful to your application, please consider to cite the paper:
 
