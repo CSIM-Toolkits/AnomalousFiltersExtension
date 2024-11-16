@@ -1,0 +1,25 @@
+site_name: AnomalousFiltersExtension
+repo_url: https://github.com/CSIM-Toolkits/AnomalousFiltersExtension
+repo_name: CSIM-Toolkits/AnomalousFiltersExtension
+edit_uri: tree/main/docs
+
+theme:
+  name: readthedocs
+  language: en
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+
+nav:
+  - 'index.md'
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [AnomalousFiltersExtension]
