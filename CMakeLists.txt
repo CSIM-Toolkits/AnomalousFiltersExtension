@@ -31,4 +31,5 @@ add_subdirectory(AADEPIData)
 ## NEXT_MODULE
 
 #-----------------------------------------------------------------------------
+include(${Slicer_EXTENSION_GENERATE_CONFIG})
 include(${Slicer_EXTENSION_CPACK})
